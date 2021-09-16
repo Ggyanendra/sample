@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\sampleforpracties.exe
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\sampleforpracties.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\sampleforpracties.deps.json
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\sampleforpracties.runtimeconfig.json
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\sampleforpracties.pdb
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\bookstore.data.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\sampleforpracties\obj\Release\net5.0\PubTmp\Out\bookstore.data.pdb

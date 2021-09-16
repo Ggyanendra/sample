@@ -10,3 +10,15 @@ C:\Users\LENOVO\source\repos\sampleforpracties\bookstore.data\obj\Debug\net5.0\b
 C:\Users\LENOVO\source\repos\sampleforpracties\bookstore.data\obj\Debug\net5.0\bookstore.data.dll
 C:\Users\LENOVO\source\repos\sampleforpracties\bookstore.data\obj\Debug\net5.0\ref\bookstore.data.dll
 C:\Users\LENOVO\source\repos\sampleforpracties\bookstore.data\obj\Debug\net5.0\bookstore.data.pdb
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\bin\Debug\net5.0\bookstore.data.deps.json
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\bin\Debug\net5.0\bookstore.data.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\bin\Debug\net5.0\ref\bookstore.data.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\bin\Debug\net5.0\bookstore.data.pdb
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\obj\Debug\net5.0\bookstore.data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\obj\Debug\net5.0\bookstore.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\obj\Debug\net5.0\bookstore.data.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\obj\Debug\net5.0\bookstore.data.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\obj\Debug\net5.0\bookstore.data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\obj\Debug\net5.0\bookstore.data.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\obj\Debug\net5.0\ref\bookstore.data.dll
+C:\Users\LENOVO\Desktop\New folder\sample\sampleforpracties\bookstore.data\obj\Debug\net5.0\bookstore.data.pdb
